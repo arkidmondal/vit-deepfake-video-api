@@ -1,0 +1,901 @@
+path,label
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\263.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\176.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\718_972.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\272.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\570_624.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\931_936.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\151.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\366_473.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\489.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\268.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\981.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\905_860.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\NeuralTextures\c40\videos\408_424.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\137_165.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\682.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\200_189.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\637.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\035.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\218_239.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\537_563.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\NeuralTextures\c40\videos\351_346.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\NeuralTextures\c40\videos\465_482.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\054.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\411.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\498_433.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\NeuralTextures\c40\videos\895_915.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\997.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\629_618.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\810.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\533.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\917_924.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\510.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\450.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\NeuralTextures\c40\videos\894_848.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\576_155.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\901.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\345.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\260.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\NeuralTextures\c40\videos\727_729.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\473_366.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\023.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\898.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\248_232.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\846.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\481.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\690.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\NeuralTextures\c40\videos\223_586.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\965_948.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\507.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\782.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\084_042.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\731.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\298.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\934.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\832.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\005_010.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\942.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\839.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\498_433.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\551_631.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\427.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\NeuralTextures\c40\videos\100_077.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\531.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\582.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\686_696.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\365.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\NeuralTextures\c40\videos\790_014.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\792.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\116.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\625.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\679.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\752.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\365_307.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\267_286.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\873_872.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\154.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\821_812.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\NeuralTextures\c40\videos\558_583.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\097.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\928.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\848_894.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\068.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\376.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\091_116.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\NeuralTextures\c40\videos\972_718.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\NeuralTextures\c40\videos\716_712.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\721_715.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\870_001.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\707_705.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\566_617.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\056.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\356.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\NeuralTextures\c40\videos\636_578.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\741_731.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\NeuralTextures\c40\videos\639_841.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\614_616.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\634.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\012.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\150.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\982_004.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\318.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\355.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\007_132.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\850.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\674_744.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\937.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\045.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\432_357.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\105_180.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\068_028.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\864.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\502.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\606_567.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\337.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\062_066.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\584_823.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\320_328.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\487.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\826_833.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\848.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\975.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\102.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\815.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\705_707.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\284_263.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\863_853.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\668.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\247_229.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\504_502.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\677_671.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\795.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\187_234.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\NeuralTextures\c40\videos\368_378.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\NeuralTextures\c40\videos\521_517.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\899_914.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\366_473.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\742.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\299.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\026.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\155_576.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\400.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\004_982.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\027_009.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\788_710.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\885.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\852_834.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\639.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\367_371.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\192.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\595.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\NeuralTextures\c40\videos\138_142.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\079_076.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\554.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\369.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\561.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\800.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\158_379.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\185_276.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\700.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\881_856.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\478_506.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\157.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\950_836.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\454.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\290.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\843.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\152.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\547_574.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\798_778.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\424_408.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\182_242.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Face2Face\c40\videos\233_995.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\NeuralTextures\c40\videos\072_037.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\293.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\868.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\185.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\FaceSwap\c40\videos\019_018.mp4,1
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\160.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\original_sequences\youtube\c40\videos\568.mp4,0
+E:\DeepfakeDatasets\FFPP_OFFICIAL_C40\manipulated_sequences\Deepfakes\c40\videos\439_441.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\sqgiolaeah.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\nbqsomcotk.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\zcfaqzvvca.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\fooapdswnu.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\jzoylwikgm.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\kxqmvdatkv.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\mildxwcoen.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\orixbfpmdh.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\kgqnhbbwlw.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\pkovaypwgw.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\jwiybvglul.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\kafvmqfypt.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\stmmmyhjxl.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\getnufqfhq.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\ibcmyzqrdn.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\wqkqpnjtbp.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\uzcfalpfss.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\roqkadbbap.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\odgysrikcl.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\uoxkuybwkc.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\wqkaroiouf.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\tetcmnvwah.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\kyjydeuttn.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\cmrwjnqpon.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\jbygrnhroe.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\mzflznofvm.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\jjzpwcociv.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\mgscjwykcg.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\kytsosuxou.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\wewmaulmxp.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\somqvnqzjs.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\ljogploktn.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\avjkwuusto.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\ivpufxwmth.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\dqajgtbnlo.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\yivyxagzay.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\cjgmkstamu.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\zkzqeaagaa.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\gabievjorc.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\koaythwkcn.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\dsgheclofa.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\orjwkmnmrw.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\mqsqfkrqki.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\kfdiwiymyk.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\qjpctcyecg.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\cidafzafml.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\zpgqqjrtko.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\kgepgiucac.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\mdbohaixtf.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\qyfkgwbubi.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\obumkiydzq.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\hqqmtxvbjj.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\agvtpygfdc.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\okkyysftyq.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\wjrepvzlsv.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\nqrqwswgnl.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\bzzbuvtrbq.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\kkxnpuhfsk.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\jdkfivxebr.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\mnvjeuiyeh.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\wfmdmbsjhy.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\bgpnirgwsl.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\erfjrsvubh.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\jskwkrdoxm.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\pivqoeckxs.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\zviyfullci.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\xlaioofnws.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\nwhleyjguj.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\kikfjtdgui.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\xlwmfyphoo.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\rsznrudrjz.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\efgsgzdtqk.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\vpimodaeym.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\gujuuvyxyt.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\ogvumzxtrq.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\rakzdfejpz.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\gcqvmlmwui.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\bblditzyqm.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\kkggcxjuol.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\pijwznrtjh.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\ocbkeoasmx.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\vgswacpvls.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\kstaorcnic.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\mwzknqqvim.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\ynzwxnpypm.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\baktdytfjl.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\suoxoyvdhh.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\giogibymva.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\vsgqeehgad.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\ppumysdmtg.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\qohooxdwvh.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\adkbiscuoo.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\bqyckibuee.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\eglhjecykb.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\nlgzdkbpud.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\cutabgeoaf.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\shrpamtirw.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\wvxlbegcgn.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\aqzbhxohjk.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\vrnznvmwon.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\hazsnizlii.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\klmqspxbxv.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\knyjygzoat.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\qdoeusvajh.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\hhxmofezyo.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\owlkhaplbc.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\aevxvajusj.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\ryvbahxrge.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\magkooowtk.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\wvtzzlcujg.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\agbgwqacac.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\ykieefmksb.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\hqompqlkft.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\oqfhupwjto.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\fsisgbssxe.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\cytofsratb.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\nulqhgmnir.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\sacjkenugu.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\pagaahnols.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\xrxzalqmrz.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\hcwzguzfem.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\luubupzupe.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\vvsbchnyjv.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\ihgdgxsgps.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\blzcuynlhq.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\idrzntgmqv.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\ompknvthvu.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\fcduuskckq.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\spaobunymy.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\whjruukdbv.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\mhfdamnmpw.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\hyumhlxnqs.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\fceaefbruz.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\fxiagzltmj.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\iqtlsawhqe.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\lfemwsypci.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\fdcleekthx.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\aycjerwghk.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\comlodmqnt.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\wqbxrnrhuo.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\pesqnkqhrw.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\qgxqbinntj.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\pizdihetet.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\mxnbqfecsc.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\ssnbbtmgpw.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\oeldomqxkm.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\ofosaxpffz.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\xcjsyzigyv.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\mahlfxcgft.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\urqnlofnpa.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\xmphbtlrck.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\uxciuwhgvk.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\oikhytmnol.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\ypmgblojth.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\rfiitcaryo.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\otiqxfixwi.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\cvdswtxdem.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\amslrtushh.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\yicfowyeqc.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\koxrvcebsp.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\mkzlarjhnf.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\ajljaaphzr.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\xhldizmuqm.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\goypgwghaw.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\gcjtyaqiwo.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\ogtdgmdass.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\uhynwthfhf.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_18\bzxrgnjxkx.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\gspojjvuyn.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\dgjkrmurmx.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\zjwvherbso.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\ohmmdllsun.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_45\eujsvdhrdm.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\sfqbvdhifm.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\lzpguvmvus.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_3\uyddeofvvz.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_27\rwxevqflag.mp4,1
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\omouxcqajy.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_36\aqhlpyacll.mp4,0
+E:\DeepfakeDatasets\DFDC_raw\dfdc_train_part_9\slnnsmbaja.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W110\light_down\fear\camera_right\W110_light_down_fear_camera_right.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W116\light_leftdown\sad\camera_rightfront\W116_light_leftdown_sad_camera_rightfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_level_4\218_M011.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M022\light_leftdown\sad\camera_front\M022_light_leftdown_sad_camera_front.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_mix_4_distortions\746_M011.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\772_W028.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W101\light_rightdown\happy\camera_up\W101_light_rightdown_happy_camera_up.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\634_W007.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M027\light_left\happy\camera_leftfront\M027_light_left_happy_camera_leftfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M025\light_left\angry\camera_leftfront\M025_light_left_angry_camera_leftfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W116\light_leftdown\disgust\camera_right\W116_light_leftdown_disgust_camera_right.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\347_M023.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_random_level\034_W009.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_random_level\962_W007.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M141\light_up\disgust\camera_rightfront\M141_light_up_disgust_camera_rightfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\090_W016.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W125\light_left\sad\camera_down\W125_light_left_sad_camera_down.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M137\light_leftup\disgust\camera_left\M137_light_leftup_disgust_camera_left.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\455_W025.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\943_M137.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_level_4\978_W010.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_random_level\830_W036.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M025\light_up\happy\camera_rightfront\M025_light_up_happy_camera_rightfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M025\light_uniform\happy\camera_up\M025_light_uniform_happy_camera_up.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_random_level\989_W012.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_mix_4_distortions\493_W032.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W116\light_rightup\neutral\camera_left\W116_light_rightup_neutral_camera_left.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_random_level\936_W125.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W112\light_left\sad\camera_leftfront\W112_light_left_sad_camera_leftfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M023\light_right\disgust\camera_leftfront\M023_light_right_disgust_camera_leftfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\711_M007.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M026\light_down\surprise\camera_front\M026_light_down_surprise_camera_front.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W112\light_up\neutral\camera_front\W112_light_up_neutral_camera_front.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_mix_4_distortions\457_W025.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\137_W024.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M027\light_up\fear\camera_down\M027_light_up_fear_camera_down.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M027\light_rightdown\sad\camera_right\M027_light_rightdown_sad_camera_right.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M025\light_leftdown\angry\camera_down\M025_light_leftdown_angry_camera_down.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\716_W019.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_random_level\200_W134.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M025\light_rightup\disgust\camera_front\M025_light_rightup_disgust_camera_front.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M026\light_rightup\contempt\camera_right\M026_light_rightup_contempt_camera_right.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_mix_4_distortions\307_M019.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W116\BlendShape\camera_down\W116_BlendShape_camera_down.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W111\light_leftdown\angry\camera_left\W111_light_leftdown_angry_camera_left.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W116\light_left\happy\camera_front\W116_light_left_happy_camera_front.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_level_4\000_M101.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_level_4\907_W111.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W116\light_rightup\happy\camera_rightfront\W116_light_rightup_happy_camera_rightfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M025\light_down\disgust\camera_rightfront\M025_light_down_disgust_camera_rightfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_random_level\478_W029.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M140\light_rightup\surprise\camera_front\M140_light_rightup_surprise_camera_front.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W125\BlendShape\camera_up\W125_BlendShape_camera_up.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W125\light_left\neutral\camera_front\W125_light_left_neutral_camera_front.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W101\light_down\sad\camera_right\W101_light_down_sad_camera_right.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\864_W039.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M140\light_right\disgust\camera_rightfront\M140_light_right_disgust_camera_rightfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M025\light_uniform\fear\camera_left\M025_light_uniform_fear_camera_left.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\260_W110.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_level_4\117_W132.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W125\light_down\surprise\camera_leftfront\W125_light_down_surprise_camera_leftfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_mix_4_distortions\453_W024.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M024\light_left\neutral\camera_rightfront\M024_light_left_neutral_camera_rightfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M137\light_rightdown\sad\camera_up\M137_light_rightdown_sad_camera_up.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_mix_4_distortions\356_M024.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W112\light_rightdown\surprise\camera_rightfront\W112_light_rightdown_surprise_camera_rightfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_level_4\057_W012.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M024\light_rightdown\contempt\camera_down\M024_light_rightdown_contempt_camera_down.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W101\light_rightup\sad\camera_down\W101_light_rightup_sad_camera_down.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M022\light_rightdown\happy\camera_leftfront\M022_light_rightdown_happy_camera_leftfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M138\light_down\happy\camera_down\M138_light_down_happy_camera_down.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W101\light_uniform\contempt\camera_up\W101_light_uniform_contempt_camera_up.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_mix_4_distortions\579_M117.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_random_level\857_M023.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_mix_4_distortions\365_M026.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W112\light_down\surprise\camera_rightfront\W112_light_down_surprise_camera_rightfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_mix_4_distortions\695_M005.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_random_level\465_W026.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W125\light_rightdown\happy\camera_right\W125_light_rightdown_happy_camera_right.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M024\light_down\surprise\camera_up\M024_light_down_surprise_camera_up.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\271_W111.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W125\light_rightdown\contempt\camera_right\W125_light_rightdown_contempt_camera_right.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W111\light_uniform\sad\camera_up\W111_light_uniform_sad_camera_up.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_random_level\879_M026.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\022_M109.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_mix_4_distortions\613_M120.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\081_M120.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_mix_4_distortions\876_M025.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\308_W101.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\058_M117.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M138\light_leftdown\disgust\camera_left\M138_light_leftdown_disgust_camera_left.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M023\light_rightdown\disgust\camera_leftfront\M023_light_rightdown_disgust_camera_leftfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_level_4\072_W013.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\320_W007.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_random_level\353_M024.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_mix_4_distortions\940_W100.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W125\light_leftup\happy\camera_up\W125_light_leftup_happy_camera_up.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W110\light_uniform\sad\camera_front\W110_light_uniform_sad_camera_front.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M141\light_down\sad\camera_up\M141_light_down_sad_camera_up.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_mix_4_distortions\086_W016.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M137\light_down\disgust\camera_rightfront\M137_light_down_disgust_camera_rightfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W110\light_leftdown\sad\camera_front\W110_light_leftdown_sad_camera_front.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_mix_4_distortions\511_W135.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M026\light_up\fear\camera_front\M026_light_up_fear_camera_front.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_level_4\133_M132.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M025\light_leftdown\surprise\camera_rightfront\M025_light_leftdown_surprise_camera_rightfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M139\light_down\contempt\camera_down\M139_light_down_contempt_camera_down.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\202_W134.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_mix_4_distortions\242_W040.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\028_W008.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W111\light_leftdown\sad\camera_down\W111_light_leftdown_sad_camera_down.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M025\light_rightup\contempt\camera_down\M025_light_rightup_contempt_camera_down.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_random_level\051_W131.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M022\light_leftup\contempt\camera_up\M022_light_leftup_contempt_camera_up.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_mix_4_distortions\097_M121.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_level_4\694_M005.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_random_level\714_W019.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M141\light_rightup\happy\camera_rightfront\M141_light_rightup_happy_camera_rightfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_random_level\538_W136.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M027\light_right\fear\camera_up\M027_light_right_fear_camera_up.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M138\light_leftup\neutral\camera_front\M138_light_leftup_neutral_camera_front.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M138\light_leftdown\happy\camera_down\M138_light_leftdown_happy_camera_down.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W101\light_rightup\neutral\camera_front\W101_light_rightup_neutral_camera_front.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\792_M015.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_level_4\309_W101.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_mix_4_distortions\788_M014.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M138\light_rightup\disgust\camera_front\M138_light_rightup_disgust_camera_front.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_random_level\047_W131.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_level_4\254_W042.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\383_M027.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W125\light_uniform\sad\camera_rightfront\W125_light_uniform_sad_camera_rightfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_level_4\770_M012.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\489_M038.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\465_W026.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_random_level\385_W015.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_level_4\489_M038.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W116\light_leftdown\happy\camera_up\W116_light_leftdown_happy_camera_up.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M023\light_right\surprise\camera_right\M023_light_right_surprise_camera_right.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M138\light_uniform\sad\camera_rightfront\M138_light_uniform_sad_camera_rightfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_level_4\134_W023.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M027\light_uniform\disgust\camera_up\M027_light_uniform_disgust_camera_up.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_random_level\868_W040.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\522_M101.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\608_M119.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M026\light_left\disgust\camera_leftfront\M026_light_left_disgust_camera_leftfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\895_M028.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M026\light_leftdown\happy\camera_left\M026_light_leftdown_happy_camera_left.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_random_level\499_M039.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W116\light_leftup\sad\camera_leftfront\W116_light_leftup_sad_camera_leftfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M140\BlendShape\camera_rightfront\M140_BlendShape_camera_rightfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_level_4\746_M011.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\437_W023.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M025\light_uniform\sad\camera_up\M025_light_uniform_sad_camera_up.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M025\light_leftup\surprise\camera_rightfront\M025_light_leftup_surprise_camera_rightfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M025\light_rightup\surprise\camera_up\M025_light_rightup_surprise_camera_up.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W116\light_leftdown\sad\camera_down\W116_light_leftdown_sad_camera_down.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_random_level\594_M118.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_level_4\280_W112.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M023\light_leftdown\happy\camera_right\M023_light_leftdown_happy_camera_right.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_random_level\581_M117.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_random_level\859_M024.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M137\light_rightdown\happy\camera_left\M137_light_rightdown_happy_camera_left.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\955_M138.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M141\light_right\sad\camera_right\M141_light_right_sad_camera_right.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W112\light_down\contempt\camera_right\W112_light_down_contempt_camera_right.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W112\light_left\neutral\camera_right\W112_light_left_neutral_camera_right.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W101\light_leftdown\contempt\camera_leftfront\W101_light_leftdown_contempt_camera_leftfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_random_level\180_M007.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\125_W101.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\020_M109.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_level_4\036_M114.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\end_to_end_level_4\078_M119.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\786_W133.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M025\light_leftdown\sad\camera_front\M025_light_leftdown_sad_camera_front.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W112\light_leftup\disgust\camera_left\W112_light_leftup_disgust_camera_left.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\W110\light_right\happy\camera_left\W110_light_right_happy_camera_left.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\335_M022.mp4,1
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M141\light_rightup\neutral\camera_up\M141_light_rightup_neutral_camera_up.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\source_videos\M024\light_uniform\angry\camera_rightfront\M024_light_uniform_angry_camera_rightfront.mp4,0
+E:\DeepfakeDatasets\DeeperForensics_1.0\manipulated_videos\reenact_postprocess\957_W006.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00030.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00228.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id37_id31_0004.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id49_0009.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id49_id57_0008.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id38_id29_0006.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00024.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id31_id23_0002.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id37_0003.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00246.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id39_0002.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id35_id29_0004.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id52_id55_0009.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id60_id61_0002.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id57_0002.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id20_id16_0007.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id27_0009.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00079.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id59_id61_0008.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id40_id41_0005.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id38_id30_0004.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id37_id34_0000.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00198.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id35_0007.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id20_id30_0005.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id49_id58_0004.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00195.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id2_id30_0000.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id11_0009.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00020.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id22_id19_0004.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id26_0007.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id26_0001.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id35_id38_0008.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id0_id28_0002.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id47_0006.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00087.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00000.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id28_id19_0004.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id35_id23_0002.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00201.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00096.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id26_id27_0003.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id35_0005.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00292.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00207.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id48_id42_0007.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id60_id61_0001.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id33_0008.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00090.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id23_id32_0003.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id29_0000.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id53_0008.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id31_0001.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00085.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id30_id6_0006.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id23_0007.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00230.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id50_id55_0004.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id5_id61_0007.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id54_0007.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id41_id48_0005.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00101.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id43_0009.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id37_id20_0000.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id17_0005.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id9_id21_0001.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id36_0003.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00260.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id33_0006.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00226.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id6_0009.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id31_id29_0003.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id54_id56_0003.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id53_id51_0005.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00232.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id46_id43_0008.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id23_id4_0000.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00137.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id41_0000.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id4_id37_0004.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00084.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00210.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id6_id2_0005.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id1_id20_0006.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id2_id3_0007.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id1_id17_0000.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id5_id59_0001.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id37_id17_0002.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id57_id54_0004.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id53_0001.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00134.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id20_id26_0008.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id23_id27_0009.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id2_id37_0006.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id19_id26_0001.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00279.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00117.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id58_0001.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id4_id26_0008.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id1_0006.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id29_0001.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id38_id23_0005.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id41_0006.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id17_id9_0003.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00068.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00061.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id30_id4_0004.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id2_id20_0005.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id37_id16_0000.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id38_0002.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00069.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id42_id46_0001.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00010.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id55_id56_0009.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id5_id60_0004.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id9_id2_0009.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00244.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id1_id9_0004.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id55_0002.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id16_0009.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00172.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00238.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id54_id55_0005.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id0_id21_0009.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id1_id37_0002.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id45_0000.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id39_id40_0007.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id21_id20_0002.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id38_id30_0000.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id60_0003.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id7_id13_0001.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id29_id38_0003.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id55_id56_0008.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id56_id57_0005.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id53_id57_0005.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id26_0005.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id19_0004.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id40_0004.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id25_id21_0003.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00154.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id33_id26_0002.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id54_id56_0004.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id31_id35_0001.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00044.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id39_id47_0008.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id6_0002.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id50_id56_0002.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id27_0003.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00095.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id3_id6_0007.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id53_id56_0004.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id41_0003.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id9_0001.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id33_0009.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id3_0000.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id26_id29_0006.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id20_id22_0006.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00089.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id35_id23_0003.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id21_id27_0009.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id29_0009.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id58_id51_0002.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id59_0001.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id29_0006.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id37_0002.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00080.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id40_id47_0000.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id28_id9_0000.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id3_id31_0003.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id28_id35_0009.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id21_id30_0002.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id28_id26_0008.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id59_0003.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00006.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-real\id60_0002.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id31_id1_0009.mp4,1
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00161.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\YouTube-real\00009.mp4,0
+E:\DeepfakeDatasets\Celeb DF (v2)\Celeb-synthesis\id13_id10_0000.mp4,1
+E:\DeepfakeDatasets\WildDeepfake\real\504_127,0
+E:\DeepfakeDatasets\WildDeepfake\real\109_70,0
+E:\DeepfakeDatasets\WildDeepfake\fake\82_22,1
+E:\DeepfakeDatasets\WildDeepfake\real\204_276,0
+E:\DeepfakeDatasets\WildDeepfake\fake\543_114,1
+E:\DeepfakeDatasets\WildDeepfake\fake\2_87,1
+E:\DeepfakeDatasets\WildDeepfake\real\326_71,0
+E:\DeepfakeDatasets\WildDeepfake\fake\359_81,1
+E:\DeepfakeDatasets\WildDeepfake\real\89_62,0
+E:\DeepfakeDatasets\WildDeepfake\real\495_231,0
+E:\DeepfakeDatasets\WildDeepfake\real\159_242,0
+E:\DeepfakeDatasets\WildDeepfake\fake\486_208,1
+E:\DeepfakeDatasets\WildDeepfake\fake\349_7,1
+E:\DeepfakeDatasets\WildDeepfake\fake\528_92,1
+E:\DeepfakeDatasets\WildDeepfake\real\352_28,0
+E:\DeepfakeDatasets\WildDeepfake\fake\283_7,1
+E:\DeepfakeDatasets\WildDeepfake\real\452_190,0
+E:\DeepfakeDatasets\WildDeepfake\real\481_120,0
+E:\DeepfakeDatasets\WildDeepfake\fake\335_12,1
+E:\DeepfakeDatasets\WildDeepfake\fake\226_125,1
+E:\DeepfakeDatasets\WildDeepfake\fake\500_78,1
+E:\DeepfakeDatasets\WildDeepfake\fake\147_154,1
+E:\DeepfakeDatasets\WildDeepfake\real\80_19,0
+E:\DeepfakeDatasets\WildDeepfake\real\502_84,0
+E:\DeepfakeDatasets\WildDeepfake\fake\74_11,1
+E:\DeepfakeDatasets\WildDeepfake\fake\90_453,1
+E:\DeepfakeDatasets\WildDeepfake\real\331_55,0
+E:\DeepfakeDatasets\WildDeepfake\fake\117_127,1
+E:\DeepfakeDatasets\WildDeepfake\real\200_54,0
+E:\DeepfakeDatasets\WildDeepfake\real\316_43,0
+E:\DeepfakeDatasets\WildDeepfake\fake\114_8,1
+E:\DeepfakeDatasets\WildDeepfake\real\13_549,0
+E:\DeepfakeDatasets\WildDeepfake\real\4_204,0
+E:\DeepfakeDatasets\WildDeepfake\fake\459_148,1
+E:\DeepfakeDatasets\WildDeepfake\fake\368_528,1
+E:\DeepfakeDatasets\WildDeepfake\real\234_171,0
+E:\DeepfakeDatasets\WildDeepfake\real\567_131,0
+E:\DeepfakeDatasets\WildDeepfake\real\403_17,0
+E:\DeepfakeDatasets\WildDeepfake\fake\403_0,1
+E:\DeepfakeDatasets\WildDeepfake\fake\354_7,1
+E:\DeepfakeDatasets\WildDeepfake\real\232_32,0
+E:\DeepfakeDatasets\WildDeepfake\real\368_157,0
+E:\DeepfakeDatasets\WildDeepfake\fake\584_2,1
+E:\DeepfakeDatasets\WildDeepfake\real\253_36,0
+E:\DeepfakeDatasets\WildDeepfake\real\357_126,0
+E:\DeepfakeDatasets\WildDeepfake\real\339_52,0
+E:\DeepfakeDatasets\WildDeepfake\fake\301_143,1
+E:\DeepfakeDatasets\WildDeepfake\fake\32_1,1
+E:\DeepfakeDatasets\WildDeepfake\real\113_39,0
+E:\DeepfakeDatasets\WildDeepfake\real\382_24,0
+E:\DeepfakeDatasets\WildDeepfake\fake\404_964,1
+E:\DeepfakeDatasets\WildDeepfake\real\194_696,0
+E:\DeepfakeDatasets\WildDeepfake\real\344_117,0
+E:\DeepfakeDatasets\WildDeepfake\real\439_90,0
+E:\DeepfakeDatasets\WildDeepfake\real\159_218,0
+E:\DeepfakeDatasets\WildDeepfake\fake\355_23,1
+E:\DeepfakeDatasets\WildDeepfake\real\350_206,0
+E:\DeepfakeDatasets\WildDeepfake\real\46_30,0
+E:\DeepfakeDatasets\WildDeepfake\fake\498_5,1
+E:\DeepfakeDatasets\WildDeepfake\fake\183_15,1
+E:\DeepfakeDatasets\WildDeepfake\real\291_8,0
+E:\DeepfakeDatasets\WildDeepfake\fake\32_387,1
+E:\DeepfakeDatasets\WildDeepfake\real\44_175,0
+E:\DeepfakeDatasets\WildDeepfake\real\528_28,0
+E:\DeepfakeDatasets\WildDeepfake\fake\96_20,1
+E:\DeepfakeDatasets\WildDeepfake\real\291_264,0
+E:\DeepfakeDatasets\WildDeepfake\fake\203_2,1
+E:\DeepfakeDatasets\WildDeepfake\real\560_121,0
+E:\DeepfakeDatasets\WildDeepfake\real\260_123,0
+E:\DeepfakeDatasets\WildDeepfake\real\97_7,0
+E:\DeepfakeDatasets\WildDeepfake\real\223_183,0
+E:\DeepfakeDatasets\WildDeepfake\real\504_69,0
+E:\DeepfakeDatasets\WildDeepfake\fake\391_33,1
+E:\DeepfakeDatasets\WildDeepfake\fake\9_151,1
+E:\DeepfakeDatasets\WildDeepfake\fake\301_129,1
+E:\DeepfakeDatasets\WildDeepfake\real\476_71,0
+E:\DeepfakeDatasets\WildDeepfake\fake\442_7,1
+E:\DeepfakeDatasets\WildDeepfake\fake\333_0,1
+E:\DeepfakeDatasets\WildDeepfake\real\212_371,0
+E:\DeepfakeDatasets\WildDeepfake\real\111_181,0
+E:\DeepfakeDatasets\WildDeepfake\fake\206_36,1
+E:\DeepfakeDatasets\WildDeepfake\real\495_25,0
+E:\DeepfakeDatasets\WildDeepfake\real\526_219,0
+E:\DeepfakeDatasets\WildDeepfake\fake\102_197,1
+E:\DeepfakeDatasets\WildDeepfake\fake\131_52,1
+E:\DeepfakeDatasets\WildDeepfake\fake\509_26,1
+E:\DeepfakeDatasets\WildDeepfake\fake\384_0,1
+E:\DeepfakeDatasets\WildDeepfake\fake\497_34,1
+E:\DeepfakeDatasets\WildDeepfake\fake\111_310,1
+E:\DeepfakeDatasets\WildDeepfake\fake\532_194,1
+E:\DeepfakeDatasets\WildDeepfake\real\377_21,0
+E:\DeepfakeDatasets\WildDeepfake\real\232_34,0
+E:\DeepfakeDatasets\WildDeepfake\fake\190_10,1
+E:\DeepfakeDatasets\WildDeepfake\fake\381_25,1
+E:\DeepfakeDatasets\WildDeepfake\fake\394_91,1
+E:\DeepfakeDatasets\WildDeepfake\fake\99_3,1
+E:\DeepfakeDatasets\WildDeepfake\real\80_115,0
+E:\DeepfakeDatasets\WildDeepfake\real\194_347,0
+E:\DeepfakeDatasets\WildDeepfake\real\470_56,0
+E:\DeepfakeDatasets\WildDeepfake\fake\402_78,1
+E:\DeepfakeDatasets\WildDeepfake\real\166_63,0
+E:\DeepfakeDatasets\WildDeepfake\real\4_288,0
+E:\DeepfakeDatasets\WildDeepfake\fake\205_62,1
+E:\DeepfakeDatasets\WildDeepfake\real\448_29,0
+E:\DeepfakeDatasets\WildDeepfake\fake\123_163,1
+E:\DeepfakeDatasets\WildDeepfake\real\184_57,0
+E:\DeepfakeDatasets\WildDeepfake\real\425_126,0
+E:\DeepfakeDatasets\WildDeepfake\fake\339_154,1
+E:\DeepfakeDatasets\WildDeepfake\fake\141_5,1
+E:\DeepfakeDatasets\WildDeepfake\fake\526_41,1
+E:\DeepfakeDatasets\WildDeepfake\real\83_237,0
+E:\DeepfakeDatasets\WildDeepfake\real\145_125,0
+E:\DeepfakeDatasets\WildDeepfake\fake\107_18,1
+E:\DeepfakeDatasets\WildDeepfake\real\385_9,0
+E:\DeepfakeDatasets\WildDeepfake\fake\227_0,1
+E:\DeepfakeDatasets\WildDeepfake\fake\276_15,1
+E:\DeepfakeDatasets\WildDeepfake\fake\394_30,1
+E:\DeepfakeDatasets\WildDeepfake\real\13_76,0
+E:\DeepfakeDatasets\WildDeepfake\fake\497_15,1
+E:\DeepfakeDatasets\WildDeepfake\real\368_128,0
+E:\DeepfakeDatasets\WildDeepfake\real\209_43,0
+E:\DeepfakeDatasets\WildDeepfake\real\68_78,0
+E:\DeepfakeDatasets\WildDeepfake\real\113_17,0
+E:\DeepfakeDatasets\WildDeepfake\fake\493_146,1
+E:\DeepfakeDatasets\WildDeepfake\fake\63_2,1
+E:\DeepfakeDatasets\WildDeepfake\fake\469_145,1
+E:\DeepfakeDatasets\WildDeepfake\real\109_68,0
+E:\DeepfakeDatasets\WildDeepfake\fake\322_117,1
+E:\DeepfakeDatasets\WildDeepfake\fake\315_0,1
+E:\DeepfakeDatasets\WildDeepfake\fake\183_24,1
+E:\DeepfakeDatasets\WildDeepfake\real\476_138,0
+E:\DeepfakeDatasets\WildDeepfake\fake\392_224,1
+E:\DeepfakeDatasets\WildDeepfake\fake\196_147,1
+E:\DeepfakeDatasets\WildDeepfake\fake\337_77,1
+E:\DeepfakeDatasets\WildDeepfake\fake\323_54,1
+E:\DeepfakeDatasets\WildDeepfake\fake\287_545,1
+E:\DeepfakeDatasets\WildDeepfake\real\184_0,0
+E:\DeepfakeDatasets\WildDeepfake\real\259_3,0
+E:\DeepfakeDatasets\WildDeepfake\real\502_56,0
+E:\DeepfakeDatasets\WildDeepfake\fake\590_9,1
+E:\DeepfakeDatasets\WildDeepfake\real\441_42,0
+E:\DeepfakeDatasets\WildDeepfake\fake\460_35,1
+E:\DeepfakeDatasets\WildDeepfake\fake\186_231,1
+E:\DeepfakeDatasets\WildDeepfake\fake\320_233,1
+E:\DeepfakeDatasets\WildDeepfake\real\53_316,0
+E:\DeepfakeDatasets\WildDeepfake\fake\209_19,1
+E:\DeepfakeDatasets\WildDeepfake\real\62_304,0
+E:\DeepfakeDatasets\WildDeepfake\fake\159_120,1
+E:\DeepfakeDatasets\WildDeepfake\real\368_133,0
+E:\DeepfakeDatasets\WildDeepfake\real\483_448,0
+E:\DeepfakeDatasets\WildDeepfake\fake\455_103,1
+E:\DeepfakeDatasets\WildDeepfake\fake\257_305,1
+E:\DeepfakeDatasets\WildDeepfake\real\200_126,0
+E:\DeepfakeDatasets\WildDeepfake\real\564_111,0
+E:\DeepfakeDatasets\WildDeepfake\real\496_36,0
+E:\DeepfakeDatasets\WildDeepfake\real\143_43,0
+E:\DeepfakeDatasets\WildDeepfake\fake\120_77,1
+E:\DeepfakeDatasets\WildDeepfake\fake\193_494,1
+E:\DeepfakeDatasets\WildDeepfake\real\214_57,0
+E:\DeepfakeDatasets\WildDeepfake\fake\364_0,1
+E:\DeepfakeDatasets\WildDeepfake\fake\340_27,1
+E:\DeepfakeDatasets\WildDeepfake\real\16_6,0
+E:\DeepfakeDatasets\WildDeepfake\fake\291_5,1
+E:\DeepfakeDatasets\WildDeepfake\real\529_47,0
+E:\DeepfakeDatasets\WildDeepfake\real\4_294,0
+E:\DeepfakeDatasets\WildDeepfake\real\184_78,0
+E:\DeepfakeDatasets\WildDeepfake\real\230_27,0
+E:\DeepfakeDatasets\WildDeepfake\fake\499_1,1
+E:\DeepfakeDatasets\WildDeepfake\fake\427_3,1
+E:\DeepfakeDatasets\WildDeepfake\fake\173_18,1
+E:\DeepfakeDatasets\WildDeepfake\fake\81_339,1
+E:\DeepfakeDatasets\WildDeepfake\fake\481_118,1
+E:\DeepfakeDatasets\WildDeepfake\fake\81_336,1
+E:\DeepfakeDatasets\WildDeepfake\real\104_38,0
+E:\DeepfakeDatasets\WildDeepfake\real\422_46,0
+E:\DeepfakeDatasets\WildDeepfake\real\253_413,0
+E:\DeepfakeDatasets\WildDeepfake\fake\23_11,1
+E:\DeepfakeDatasets\WildDeepfake\real\13_240,0
+E:\DeepfakeDatasets\WildDeepfake\real\21_41,0
+E:\DeepfakeDatasets\WildDeepfake\fake\9_52,1
