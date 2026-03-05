@@ -1,7 +1,22 @@
-.venv/
-.idea/
+# Python
 __pycache__/
 *.pyc
+*.pyo
 
-# Ignore checkpoints
-checkpoints/
+# Virtual environments
+.venv/
+venv/
+
+# Temporary uploads
+temp_videos/*
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large model files
+*.pth
+*.pt
