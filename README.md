@@ -1,40 +1,47 @@
-🎥 Video Deepfake Detection Model
-Overview
+# Multimodal Deepfake Video Detection API
 
-The video deepfake detection module is designed to identify manipulated or AI-generated videos by analyzing facial and visual inconsistencies across frames. It uses a 
-deep convolutional neural network based on EfficientNet to learn spatial features that distinguish real videos from synthetically altered ones. The system processes 
-videos by extracting frames, detecting faces, and performing frame-level classification, followed by temporal aggregation to produce a final video-level decision.
+A FastAPI-based multimodal deepfake detection system that combines **Vision Transformer (ViT) video analysis** with **audio deepfake detection** to identify manipulated videos.
 
-Model Architecture
+This project analyzes both **visual artifacts** and **audio authenticity** to improve deepfake detection reliability.
 
-Backbone: EfficientNet (pretrained on ImageNet)
+---
 
-Input: RGB face frames resized to 224×224
+## Features
 
-Feature Extraction: Depthwise separable convolutions for efficient spatial representation
+- Vision Transformer based video deepfake detection
+- Audio deepfake detection via external API
+- Multimodal score fusion (video + audio)
+- Automatic audio extraction using FFmpeg
+- FastAPI backend for real-time inference
+- Lightweight deployment-ready architecture
+- Designed for cloud deployment (Render / Railway)
 
-Classification Head: Fully connected layers with softmax/sigmoid output
+---
 
-Output: Probability score indicating whether a frame/video is real or fake
+## System Architecture
 
-Processing Pipeline
+Video Input  
+↓  
+Frame Extraction  
+↓  
+Vision Transformer Video Model  
+↓  
+Audio Extraction (FFmpeg)  
+↓  
+Audio Deepfake Detection API  
+↓  
+Score Fusion  
+↓  
+Final Deepfake Prediction
 
-Frame Extraction: Videos are sampled at fixed intervals.
+---
 
-Face Detection & Cropping: Faces are localized and aligned.
+## API Response Example
 
-Preprocessing: Normalization and resizing.
-
-Frame-Level Inference: Each frame is passed through EfficientNet.
-
-Temporal Aggregation: Frame scores are averaged to obtain the final video prediction.
-
-Key Features
-
-Handles compressed and social-media videos
-
-Works on both recorded and streamed video inputs
-
-Lightweight and scalable with GPU acceleration
-
-Robust to common deepfake artifacts such as texture mismatch, blending errors, and unnatural facial motion.
+```json
+{
+  "video_score": 0.42,
+  "audio_score": 0.52,
+  "final_score": 0.47,
+  "prediction": "FAKE"
+}
