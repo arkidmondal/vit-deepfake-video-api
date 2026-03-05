@@ -53,6 +53,9 @@ def extract_frames(video_path, num_frames=NUM_FRAMES):
     cap.release()
 
     # Pad if fewer frames
+    if len(frames) == 0:
+        raise ValueError("No frames extracted from video")
+
     while len(frames) < num_frames:
         frames.append(frames[-1])
 

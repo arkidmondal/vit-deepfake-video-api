@@ -41,6 +41,8 @@ class ViTVideo(torch.nn.Module):
 def download_model():
     import requests
 
+    MODEL_PATH.parent.mkdir(parents=True, exist_ok=True)
+
     if not MODEL_PATH.exists():
         print("Downloading model weights from HuggingFace...")
 

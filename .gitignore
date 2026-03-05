@@ -8,7 +8,7 @@ __pycache__/
 venv/
 
 # Temporary uploads
-temp_videos/*
+temp_videos/
 
 # IDE
 .idea/
@@ -17,6 +17,13 @@ temp_videos/*
 .DS_Store
 Thumbs.db
 
-# Large model files
+# Environment
+.env
+
+# Logs
+*.log
+
+# Model files
 *.pth
 *.pt
+backend/best_model.pth

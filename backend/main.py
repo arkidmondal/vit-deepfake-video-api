@@ -20,7 +20,8 @@ def home():
 async def predict_video_api(file: UploadFile = File(...)):
 
     # Save uploaded file
-    video_path = os.path.join(UPLOAD_DIR, file.filename)
+    filename = os.path.basename(file.filename)
+    video_path = os.path.join(UPLOAD_DIR, filename)
 
     with open(video_path, "wb") as buffer:
         shutil.copyfileobj(file.file, buffer)
