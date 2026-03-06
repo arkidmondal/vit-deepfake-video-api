@@ -1,2 +1,2 @@
-apt-get update && apt-get install -y ffmpeg
-uvicorn backend.main:app --host 0.0.0.0 --port $PORT --workers 1
+#!/bin/bash
+uvicorn backend.main:app --host 0.0.0.0 --port 7860
