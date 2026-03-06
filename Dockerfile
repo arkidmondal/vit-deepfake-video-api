@@ -14,4 +14,4 @@ RUN mkdir -p temp_videos
 
 EXPOSE 7860
 
-CMD ["bash", "backend/start.sh"]
+CMD ["uvicorn", "backend.main:app", "--host", "0.0.0.0", "--port", "7860"]
